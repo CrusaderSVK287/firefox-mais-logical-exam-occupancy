@@ -6,7 +6,7 @@
   "description": "Fixes the genious (emphasis on sarcasm) UI of MAIS where it shows max/current not current/max on homepage",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/icon-48.png"
   },
 
   "content_scripts": [
