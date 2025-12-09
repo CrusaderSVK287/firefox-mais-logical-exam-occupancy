@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "MAIS improvements",
+  "version": "1.0",
+
+  "description": "Fixes the genious (emphasis on sarcasm) UI of MAIS where it shows max/current not current/max on homepage",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://student.tuke.sk/student/home.mais*"],
+      "js": ["borderify.js"]
+    }
+  ]
+}
