@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": ["*://student.tuke.sk/student/home.mais*"],
-      "js": ["borderify.js"]
+      "js": ["occupancy_label.js"]
     }
   ]
 }
