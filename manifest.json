@@ -4,6 +4,7 @@
   "version": "1.0",
 
   "description": "Fixes the genious (emphasis on sarcasm) UI of MAIS where it shows max/current not current/max on homepage",
+  "homepage_url": "https://github.com/CrusaderSVK287/firefox-mais-logical-exam-occupancy",
 
   "icons": {
     "48": "icons/icon-48.png"
